@@ -11,7 +11,7 @@ The note-taking application allows the user to save notes with a title and summa
 * [Tests](#tests)
 * [Questions](#questions)
 # Installation
-The following necessary dependencies must be installed to run the application Clone the repository to your local enviornment, then run the command: npm install. After running npm install, run npm start. Npm start will bring up a local host URL to be able to open on the application link on. If you do not wish to run to clone the repository to run it, the application is also live on Heroku to use as well.
+To run the application, clone the repository to your local enviornment, then run the command: npm install. After running npm install, run npm start. Npm start will bring up a local host URL to be able to open on the application link on. If you do not wish to run to clone the repository to run it, the application is also live on Heroku to use as well.
 # Usage
 In order to use this app, The application is used by pressing the button "get started". After pressing "get started", you are then taken to a page titled "Note Taker" where you can add multiple notes, each with different headers and paragraphs after saving each note. Those notes are then stored in an aside on the left hand side of the page to access again if needed. They can also be deleted.
 # License
