@@ -45,7 +45,7 @@ And re-access those notes by clicking onto them on the table on the side:
 
 ![image](https://user-images.githubusercontent.com/95041311/158083466-052a65e4-d0c7-48cc-a2c0-ab59178e6904.png)
 
-6.) You can also delete any of the previous notes by clicking on the 'trashcan' button next to the note:
+6.) You can also delete any of the previous notes by clicking on the red 'trash can' button next to the note:
 
 ![image](https://user-images.githubusercontent.com/95041311/158083594-ff4d8cfb-6b17-4ab3-bdee-0688299166b6.png)
 
