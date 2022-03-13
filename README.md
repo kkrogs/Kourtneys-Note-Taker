@@ -19,7 +19,7 @@ This project is licensed under the MIT license.
 
 
 # Contributors
- Kourtney
+ Kourtney Krogman
 # Tests
 The following is needed to run the test: npm install, npm start
 # Questions
