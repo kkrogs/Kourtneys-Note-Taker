@@ -27,7 +27,7 @@ notes.post('/', (req, res) => {
 
     // pushing the new note and saving the information as a string
     dataB.push(newNote)
-    const fileToSend = JSON.stringify(jsonDbFile)
+    const fileToSend = JSON.stringify(dataB)
 
     // rewriting json file to include the new note
     fs.writeFileSync('./db/db.json', fileToSend, "utf-8");
