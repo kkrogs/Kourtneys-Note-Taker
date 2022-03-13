@@ -25,7 +25,15 @@ I have also included a step-by-step guide with photos below:
 
 ![image](https://user-images.githubusercontent.com/95041311/158083323-f754d694-7489-4c8c-bbc6-0eecdf69b2a7.png)
 
-3.) 
+
+![image](https://user-images.githubusercontent.com/95041311/158083368-424ecedd-0131-4901-88cd-d99989e72abf.png)
+
+
+3.) Click the 'save' floppy disc icon in the upper righthand corner:
+
+![image](https://user-images.githubusercontent.com/95041311/158083393-6dfa7d8c-f5f0-46da-a6e3-f5bfd68fce48.png)
+
+4.) 
 
 # License
 This project is licensed under the MIT license.
