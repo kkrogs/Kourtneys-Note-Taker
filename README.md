@@ -14,6 +14,15 @@ The note-taking application allows the user to save notes with a title and summa
 To run the application, clone the repository to your local enviornment, then run the command: npm install. After running npm install, run npm start. Npm start will bring up a local host URL to be able to open on the application link on. If you do not wish to run to clone the repository to run it, the application is also [live on Heroku](https://kourtneys-note-taker.herokuapp.com//) to use as well.
 # Usage
 In order to use this app, The application is used by pressing the button "get started". After pressing "get started", you are then taken to a page titled "Note Taker" where you can add multiple notes, each with different headers and paragraphs after saving each note. Those notes are then stored in an aside on the left hand side of the page to access again if needed. They can also be deleted.
+
+I have also included a step-by-step guide with photos below:
+
+1.) Click the button "get started" in the middle of the page.
+
+![image](https://user-images.githubusercontent.com/95041311/158083285-181d503d-1e0c-462f-b95e-caf50d5eb087.png)
+
+2.)
+
 # License
 This project is licensed under the MIT license.
 
