@@ -33,7 +33,18 @@ I have also included a step-by-step guide with photos below:
 
 ![image](https://user-images.githubusercontent.com/95041311/158083393-6dfa7d8c-f5f0-46da-a6e3-f5bfd68fce48.png)
 
-4.) 
+4.) After clicking 'save', your note will display in a table at the lefthand side of the page:
+
+![image](https://user-images.githubusercontent.com/95041311/158083417-6638b053-d298-4c92-90a7-d59cf9a35a37.png)
+
+5.) You can also add multiple notes:
+
+![image](https://user-images.githubusercontent.com/95041311/158083448-e6ca9cb8-e845-4c4d-9db9-26e27c8d2258.png)
+
+And re-access those notes by clicking onto them on the table on the side:
+
+![image](https://user-images.githubusercontent.com/95041311/158083466-052a65e4-d0c7-48cc-a2c0-ab59178e6904.png)
+
 
 # License
 This project is licensed under the MIT license.
