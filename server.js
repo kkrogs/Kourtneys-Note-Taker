@@ -4,7 +4,7 @@ const api = require('./routes/index.js');
 const PORT = process.env.PORT || 3001;
 const app = express();
 
-// using my middlewear to allow better transfer of data
+// using middlewear to for better data transfer
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
@@ -19,7 +19,7 @@ app.get('/notes', (req, res) =>
     res.sendFile(path.join(__dirname, '/public/notes.html'))
 );
 
-// sending the public/index.html file when accessing the base of server
+// sending the public/index.html file when accessing server base
 app.get('/', (req, res) =>
     res.sendFile(path.join(__dirname, '/public/index.html'))
 );
