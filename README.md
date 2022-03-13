@@ -15,7 +15,7 @@ To run the application, clone the repository to your local enviornment, then run
 # Usage
 In order to use this app, The application is used by pressing the button "get started". After pressing "get started", you are then taken to a page titled "Note Taker" where you can add multiple notes, each with different headers and paragraphs after saving each note. Those notes are then stored in an aside on the left hand side of the page to access again if needed. They can also be deleted.
 
-I have also included a step-by-step guide with photos below:
+I have also included visual step-by-step guide below:
 
 1.) Click the button "get started" in the middle of the page.
 
