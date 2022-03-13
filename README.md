@@ -21,7 +21,11 @@ I have also included a step-by-step guide with photos below:
 
 ![image](https://user-images.githubusercontent.com/95041311/158083285-181d503d-1e0c-462f-b95e-caf50d5eb087.png)
 
-2.)
+2.) Click onto "Note Title" and "Note text" to create a title for the note and associated text.
+
+![image](https://user-images.githubusercontent.com/95041311/158083323-f754d694-7489-4c8c-bbc6-0eecdf69b2a7.png)
+
+3.) 
 
 # License
 This project is licensed under the MIT license.
