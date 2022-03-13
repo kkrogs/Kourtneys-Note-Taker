@@ -1,6 +1,6 @@
 const express = require('express');
 const notes = require('./routes')
-const app = express();
+const app = express
 
 
 // creates route for /api/notes
